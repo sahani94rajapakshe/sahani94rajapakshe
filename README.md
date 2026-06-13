@@ -1,62 +1,142 @@
 # 👋 Hi, I'm Sahani Rajapakshe!
 
-🎯 A passionate software developer specializing in backend development with a focus on building secure, scalable, and high-performing applications.  
-💻 I love solving complex problems with clean, maintainable code and collaborating on meaningful projects.
+🚀 AI Engineer | Software Engineer | Backend Developer
+
+I'm a software engineer with 4+ years of experience building scalable enterprise applications and AI-powered solutions. My expertise spans backend development, cloud-native architectures, automation systems, and Generative AI applications.
+
+I enjoy designing intelligent systems that combine traditional software engineering with Large Language Models (LLMs), AI agents, and workflow automation to solve real-world business problems.
 
 ---
 
-## 🛠️ Developer Skills
+## 🛠️ Technical Skills
 
-### 👨‍💻 Backend
-- **Languages & Frameworks:** C#, .NET Core, .NET Framework, VB.NET, ASP.NET Web Forms
-- **Architecture & Principles:** SOLID, OOP, Onion Architecture
-- **Messaging & Caching:** RabbitMQ, Redis
+### 🤖 Artificial Intelligence & Machine Learning
+
+* Large Language Models (OpenAI GPT, Claude, Gemini)
+* AI Agents & Agentic Workflows
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* LangChain, LangGraph
+* Vector Databases
+* ML.NET
+* Transformer Models (T5, DistilBERT)
+* Fine-Tuning & Model Evaluation
+* AI Workflow Automation
+
+### 👨‍💻 Backend Development
+
+* C#, .NET Core, .NET 8/9
+* ASP.NET Core Web API
+* ASP.NET MVC
+* Entity Framework Core
+* REST API Design
+* JWT Authentication & Authorization
+* Clean Architecture
+* Onion Architecture
+* SOLID Principles
+* Microservices
+
+### 🗄️ Databases
+
+* SQL Server
+* MySQL
+* Redis
+* Query Optimization
+* Stored Procedures
+* Database Design
+
+### ⚙️ Messaging & Infrastructure
+
+* RabbitMQ
+* Docker
+* CI/CD Pipelines
+* Azure DevOps
+* Git & GitHub
+* Swagger
+* Postman
 
 ### 🌐 Frontend
-- Angular (basic), JavaScript, jQuery, Bootstrap, Responsive UI
 
-### 🗄️ Database
-- SQL Server, MySQL
-- Query Optimization, Stored Procedures, Triggers
-
-### 🔧 Tools & DevOps
-- Git, Azure DevOps, Docker (basic), CI/CD pipelines
-- JIRA, Postman, Swagger
-
-### 🤝 Soft Skills
-- Communication, Cross-Functional Collaboration
-- Problem Solving, Resilience, Adaptability
+* Angular
+* JavaScript
+* jQuery
+* Bootstrap
+* Responsive UI Development
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### [.NET 9 Web API with JWT Authentication, Role-Based Authorization, Refresh Tokens & ML.NET Anomaly Detection](https://github.com/sahani94rajapakshe/auth-api-anomaly-detection)
+### AI-Powered Omnichannel Customer Support & Analytics Platform
 
-🔐 A secure and intelligent web API featuring:
-- JWT-based user authentication & authorization
-- Role-based access control (Admin/User roles)
-- Refresh token support
-- ML.NET integration for anomaly detection in login patterns
-- Clean architecture & best practices
-- SQL Server backend
+Designed and developed an intelligent customer support automation platform that integrates chat, email, and messaging channels into a unified AI-powered workflow.
 
-📂 [View the repository »](https://github.com/sahani94rajapakshe/auth-api-anomaly-detection)
+Key Features:
 
----
+* AI-powered customer support automation
+* Intent classification and sentiment analysis
+* Automated response generation using LLMs
+* RAG-based knowledge retrieval
+* Customer analytics and reporting dashboards
+* Workflow automation across multiple communication channels
 
-## ✍️ Latest Posts
-I also write on [Medium](https://sahanisineka.medium.com/) about development, career, and productivity:
-- 📄 [Welcome to my Medium](https://sahanisineka.medium.com/)
+Tech Stack:
+Python, OpenAI, LangChain, Vector Databases, FastAPI, SQL Server
 
 ---
 
-## 📫 Let’s Connect
-- 🌐 [Medium](https://sahanisineka.medium.com/)
-- 📧 Email: *sahanisineka@gmail.com*
-- 💼 [LinkedIn](#) *https://www.linkedin.com/in/sahanirajapakshe/*
+### .NET 9 Web API with JWT Authentication, Role-Based Authorization & ML.NET Anomaly Detection
+
+GitHub:
+https://github.com/sahani94rajapakshe/auth-api-anomaly-detection
+
+Features:
+
+* JWT Authentication
+* Refresh Token Management
+* Role-Based Authorization
+* Clean Architecture
+* SQL Server Integration
+* ML.NET Anomaly Detection for Login Monitoring
 
 ---
 
-⭐ Thanks for stopping by!  
-If you like my work, feel free to ⭐ my repositories and connect with me!
+## 💼 Professional Experience
+
+### Software Engineer
+
+Experienced in designing, developing, and maintaining enterprise-grade applications with a strong focus on:
+
+* Scalable backend systems
+* Secure authentication and authorization
+* API development and integration
+* Database optimization
+* Performance tuning
+* Software architecture and design patterns
+* AI-powered automation solutions
+
+---
+
+## ✍️ Articles & Writing
+
+I regularly share insights on software engineering, AI, career growth, and productivity.
+
+Medium:
+https://sahanisineka.medium.com/
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn:
+https://www.linkedin.com/in/sahanirajapakshe/
+
+GitHub:
+https://github.com/sahani94rajapakshe
+
+Email:
+[sahanisineka@gmail.com](mailto:sahanisineka@gmail.com)
+
+---
+
+⭐ Open to opportunities in AI Engineering, Software Engineering, Backend Development, and Intelligent Automation.
